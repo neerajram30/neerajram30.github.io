@@ -12,8 +12,8 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Muhammed Iqbal P B"
-description = "Iqbal's personal website"
+author = "Neeraj M R"
+description = "Neeraj's personal website"
 keywords = "blog,developer,personal"
 info = ["DevOps @ Emvigo", "WordPress Freelancer","Campus Community Manager @ TinkerHub"]
 avatarURL = "images/avatar.jpg"
