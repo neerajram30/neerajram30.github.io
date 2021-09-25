@@ -15,10 +15,10 @@ enableEmoji = true
 author = "Neeraj M R"
 description = "Neeraj's personal website"
 keywords = "blog,developer,personal"
-info = ["DevOps @ Emvigo", "WordPress Freelancer","Campus Community Manager @ TinkerHub"]
+info = ["Fullstack Developer ","Member @ TinkerHub"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "More Details @ iqbalpb.com"
+footerContent = "More Details @ neeraj.com"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -103,19 +103,19 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/iqbalpb01/"
+url = "https://github.com/neerajram30/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/iqbalpb01/"
+url = "https://twitter.com/NeerajMR7/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/iqbalpb/"
+url = "https://www.linkedin.com/in/neeraj-m-r-173b64216//"
 
 [languages.en]
 languageName = ":uk:"
